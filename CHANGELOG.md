@@ -10,6 +10,9 @@ Versions are `MAJOR.PATCH`.
 Salt 3002.5 (2021-02-25)
 ========================
 
+Fixed
+-----
+
 - Tests and fix for CVE-2021-25283
 
 
